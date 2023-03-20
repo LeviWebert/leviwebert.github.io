@@ -1555,3 +1555,9 @@ body.offcanvas {
 .button-82-pushable:focus:not(:focus-visible) {
   outline: none;
 }
+td, th, tr, table {
+  border: 1px solid blue;
+}
+table {
+  border-collapse: collapse;
+}
